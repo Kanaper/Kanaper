@@ -1,6 +1,2 @@
-Début, Fin
+Bonjour, je suis un etudiant en 2ème année de BUT Informatique !
 
-<!---
-Kanaper/Kanaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
